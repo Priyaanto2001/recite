@@ -1,1 +1,1 @@
-# recite
+# recipe
